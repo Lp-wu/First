@@ -1,5 +1,5 @@
 # include<stdio.h>
-//Ö÷º¯Êý
+//ä¸»å‡½æ•°
 int main ()
 {
 	printf("hello world\n");
